@@ -10,3 +10,6 @@ class Person
   
   
 end 
+
+Person.walk 
+Person.talk
